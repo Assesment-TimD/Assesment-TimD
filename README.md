@@ -1,1 +1,7 @@
-# TubesSisbus-TimD
+# Tugas Besar Sistem tedistibusi TIM D - NODE.JS/EXPRESS
+
+Anggota Kelompok: 
+1. DANDI  > LAPTOP1 > DevOps > TEAM LEADER
+2. YUDHI  > LAPTOP2 > DevOps > BACKEND
+3. SALSA  > BACKEND
+4. SYIFA  > UI/UX > FRONTED, DOC WRITER LAPORAN
