@@ -1,4 +1,6 @@
-# Tugas Besar Sistem tedistibusi TIM D - NODE.JS/EXPRESS
+# Assesment Sistem tedistibusi TIM D - NODE.JS/EXPRESS
+
+### OPTIMASI MANAJEMEN PERSEDIAAN MELALUI IMPLEMENTASI SISTEM INVENTORY BERBASIS PROXMOX VIRTUALIZATION 
 
 Anggota Kelompok: 
 1. DANDI  > LAPTOP1 > DevOps > TEAM LEADER
@@ -6,4 +8,4 @@ Anggota Kelompok:
 3. SALSA  > BACKEND, DOC WRITER LAPORAN
 4. SYIFA  > UI/UX > FRONTED, DOC WRITER LAPORAN
 
-# [DOCS Laporan](https://docs.google.com/document/d/1ggT9DR5p6QQ2geoZGU7Wnb2aBTSJ35nK/edit?usp=sharing&ouid=108981306572917218727&rtpof=true&sd=true)
+### [DOCS Laporan](https://docs.google.com/document/d/1ggT9DR5p6QQ2geoZGU7Wnb2aBTSJ35nK/edit?usp=sharing&ouid=108981306572917218727&rtpof=true&sd=true)
